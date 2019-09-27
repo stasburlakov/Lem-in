@@ -18,4 +18,4 @@ Lem_in virtual machine visualization written using the SDL2 library.
  - Use the arrows to move the graph.
  - To exit, press Esc
 
-(image/image.png)
+![Lem-in](image/image.png)
