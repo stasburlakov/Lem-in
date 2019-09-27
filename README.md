@@ -1,6 +1,4 @@
 # Lem-in
-You must move your ant colony from one point to another.
-# Lem_in
 
 This project is a game about ant farm. Its goal is to find the shortest path from start room to the end.
 
