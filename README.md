@@ -2,8 +2,11 @@
 
 This project is a game about ant farm. Its goal is to find the shortest path from start room to the end.
 
+How to run:
+
+`git clone git@github.com:stasburlakov/Lem-in.git Lem-in && cd Lem-in && make`
+
 ### Use:
- - `make`
 
  - `./lem-in < <maps> [ | ./viz]`
 
